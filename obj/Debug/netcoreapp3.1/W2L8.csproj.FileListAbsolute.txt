@@ -1,0 +1,13 @@
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.exe
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.deps.json
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.runtimeconfig.json
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.runtimeconfig.dev.json
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.dll
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\bin\Debug\netcoreapp3.1\W2L8.pdb
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.csprojAssemblyReference.cache
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.dll
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.pdb
+C:\Users\SpoolkaZUO\source\repos\W2L8\W2L8\obj\Debug\netcoreapp3.1\W2L8.genruntimeconfig.cache
